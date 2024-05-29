@@ -1,3 +1,9 @@
+// File: projects.js
+// Author: Gaganpreet Kaur
+// StudentID: 301385415
+// Date: 2024-05-29
+
+
 import React from 'react';
 import './Projects.css';
 
@@ -11,7 +17,7 @@ const Projects = () => {
       outcome: 'Successfully created a platform where I can share my thoughts and experiences with a wider audience. Improved my skills in React and Node.js.'
     },
     {
-      title: 'interactive table creator',
+      title: 'Interactive table creator',
       image: require('../assets/Proj2.png'), // Update with the correct path to your image
       description: 'Developed a feature-rich web application to manage and display product inventories.',
       role: 'Developer',

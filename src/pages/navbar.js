@@ -1,3 +1,9 @@
+// File: navbar.js
+// Author: Gaganpreet Kaur
+// StudentID: 301385415
+// Date: 2024-05-29
+
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 

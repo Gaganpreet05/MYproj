@@ -1,3 +1,9 @@
+// File: index.js
+// Author: Gaganpreet Kaur
+// StudentID: 301385415
+// Date: 2024-05-29
+
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';

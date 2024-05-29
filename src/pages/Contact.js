@@ -1,3 +1,9 @@
+// File: contact.js
+// Author: Gaganpreet Kaur
+// StudentID: 301385415
+// Date: 2024-05-29
+
+
 import React, { useState } from 'react';
 
 const Contact = () => {

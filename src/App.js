@@ -1,3 +1,8 @@
+// File: App.js
+// Author: Gaganpreet Kaur
+// StudentID: 301385415
+// Date: 2024-05-29
+
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import './App.css';

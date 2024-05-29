@@ -1,3 +1,9 @@
+// File: about.js
+// Author: Gaganpreet Kaur
+// StudentID: 301385415
+// Date: 2024-05-29
+
+
 import React from 'react';
 import myImage from '../assets/MyImage.png';
 import resume from '../assets/MyResume.pdf'; 
