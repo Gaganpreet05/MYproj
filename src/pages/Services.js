@@ -13,8 +13,8 @@ const Services = () => {
       <ul>
         <li>General Programming</li>
         <li>Web Development</li>
-        <li>Mobile Apps</li>
-        <li>Consulting</li>
+        <li>Linux</li>
+        <li>Sql Queries</li>
       </ul>
     </div>
   );
